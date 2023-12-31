@@ -1,1 +1,2 @@
+# Patterns subpage
 test
