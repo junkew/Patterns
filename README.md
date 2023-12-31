@@ -1,2 +1,2 @@
 # Patterns
-[test ](subfolder/subpage.md)
+[test ](submap/subpage.md)
